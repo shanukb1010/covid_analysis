@@ -10,7 +10,7 @@ This repository contains Python scripts and Jupyter Notebooks for analyzing COVI
 - **Exploratory Data Analysis (EDA):** In-depth analysis of COVID-19 datasets to identify patterns, correlations, and key metrics.
 - **Geographical Visualization:** Maps and charts to visualize the geographical spread of COVID-19 cases.
 - **Time Trends:** Analyzing temporal trends to understand the evolution of the pandemic.
-- **Statistical Modeling:** Implementation of statistical models for predicting future trends or understanding the impact of interventions.
+
 
 ## Notebooks
 
